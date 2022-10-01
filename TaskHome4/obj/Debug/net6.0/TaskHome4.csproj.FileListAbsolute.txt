@@ -1,0 +1,15 @@
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\obj\Debug\net6.0\TaskHome4.csproj.AssemblyReference.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\obj\Debug\net6.0\TaskHome4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\obj\Debug\net6.0\TaskHome4.AssemblyInfoInputs.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\obj\Debug\net6.0\TaskHome4.AssemblyInfo.cs
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\obj\Debug\net6.0\TaskHome4.csproj.CoreCompileInputs.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\bin\Debug\net6.0\TaskHome4.exe
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\bin\Debug\net6.0\TaskHome4.deps.json
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\bin\Debug\net6.0\TaskHome4.runtimeconfig.json
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\bin\Debug\net6.0\TaskHome4.dll
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\bin\Debug\net6.0\TaskHome4.pdb
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\obj\Debug\net6.0\TaskHome4.dll
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\obj\Debug\net6.0\refint\TaskHome4.dll
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\obj\Debug\net6.0\TaskHome4.pdb
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\obj\Debug\net6.0\TaskHome4.genruntimeconfig.cache
+C:\Users\kitti\OneDrive\Рабочий стол\разработчик\C#\Seminar 1\TaskHome4\obj\Debug\net6.0\ref\TaskHome4.dll
